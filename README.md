@@ -10,8 +10,4 @@
 
 - Technologies Used - Html , css , Js
 
-- Hooks Used : useState 
-
-- Role - Frontend
-
 - How to reach me : with my [instagram](https://www.instagram.com/alifront_com/) and [linkedin](https://www.linkedin.com/in/ali-heydari-3567b2191/)
